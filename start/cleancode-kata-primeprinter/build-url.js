@@ -28,4 +28,3 @@ function buildUrl(url, options = {}) {
   
     return builtUrl;
   }
-  
